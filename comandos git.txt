@@ -3,4 +3,6 @@ ver directorios -> dir o ls
 indicar que se está creando un repositorio -> git init
 saber el estado en el qué está el repositorio -> git status
 para agregar un archivo al monitore de git -> git add (+) el nombre para agregar un archivo específico, o git add . para agregarlos todos
-
+Dejar de monitorear un archivo -> git rm --cached (+) nombre del archivo
+punto para decir que se hizo algo se llama commit-> git commit -m (+) "mensaeje" 
+configurar correo con git --> git config --global usar.email "corre@algo.copm" usar.name "corre@algo.copm"

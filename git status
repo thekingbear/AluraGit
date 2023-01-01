@@ -1,0 +1,23 @@
+[33mcommit 8dfb4ce671c1f922cb484b33ce275f8451ea3f2d[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Andres <abustoscuervo@gmail.com>
+Date:   Sun Jan 1 12:54:04 2023 -0600
+
+    Cambiando el título de la página
+
+[33mcommit f1e768d045f057eb5f2d4edf9afc99fd00b95fce[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Andres <abustoscuervo@gmail.com>
+Date:   Thu Dec 29 17:34:40 2022 -0600
+
+    Agregando gitignore
+
+[33mcommit 8050e8ce3057ff38e000e633cae181dfa996f0ef[m
+Author: Andres <abustoscuervo@gmail.com>
+Date:   Thu Dec 29 17:16:17 2022 -0600
+
+    Arreglado s que faltaba en ANSIBLES
+
+[33mcommit 35e6909d9cdbe60ce6b0b373ae2b98d4a4de0138[m
+Author: Andres <abustoscuervo@gmail.com>
+Date:   Thu Dec 29 17:13:48 2022 -0600
+
+    Creando archivo index.html con lista de cursos

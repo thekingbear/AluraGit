@@ -6,3 +6,11 @@ para agregar un archivo al monitore de git -> git add (+) el nombre para agregar
 Dejar de monitorear un archivo -> git rm --cached (+) nombre del archivo
 punto para decir que se hizo algo se llama commit-> git commit -m (+) "mensaeje" 
 configurar correo con git --> git config --global usar.email "corre@algo.copm" usar.name "corre@algo.copm"
+Ver commits hechos-> git log
+Commits resumidos -> git log --oneline
+Ver los commits hechos a detalle -> git log -p
+git log --pretty="parámetros de formato"
+Para ignorar algunos archivos, se debe crear un archivo llamado : .gitignore  y colocar las rutas que se quieran ignorar
+establecer un repositorio como remoto, no tiene copias físicas-> git init --bare
+ver servidores remotos -> git remote
+git push origin main -> 
